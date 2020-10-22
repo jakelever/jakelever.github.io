@@ -5,9 +5,9 @@ title: "Courses"
 
 Below are curriculums that I've developed for machine learning and data science audiences.
 
-### Data Science Miniclass on Bootstrapping
+### [Data Science Miniclass on Bootstrapping](https://github.com/jakelever/bootstrap_lesson)
 
-This short class outlines the bootstrapping method with an associated Jupyter notebook to provide example code.
+This short class outlines the bootstrapping method with an associated Jupyter notebook to provide example code. It can be run using [Binder](https://mybinder.org/v2/gh/jakelever/bootstrap_lesson/main) to launch a cloud instance of a Jupyter notebook.
 
 ### [Intermediate Python: Machine Learning](https://jakelever.github.io/swc-machine-learning-short/)
 
