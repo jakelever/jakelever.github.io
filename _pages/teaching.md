@@ -1,6 +1,6 @@
 ---
-permalink: /courses/
-title: "Courses"
+permalink: /teaching/
+title: "Teaching"
 ---
 
 Below are curriculums that I've developed for machine learning and data science audiences.
