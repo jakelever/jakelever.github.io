@@ -15,6 +15,3 @@ This personal web page provides links to my [teaching](/teaching/) and [research
 
 [CoronaCentral](https://coronacentral.ai) - A portal to the coronavirus research literature using machine learning to categorize all research in useful topics. Updated daily.
 
-### Next Course: 
-
-[Python Machine Learning](https://lib.stanford.edu/events/carpentries-stanford-python-machine-learning) @ Stanford - *10th Nov 2020 - 1pm*
