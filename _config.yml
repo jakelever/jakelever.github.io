@@ -16,7 +16,7 @@
 title: Jake Lever
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal webpage of Jake Lever, biomedical researcher at Stanford.
+  Personal webpage of Jake Lever, lecturer at Glasgow University.
 twitter_username: jakelever0
 github_username: jakelever
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Jake Lever"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A postdoctoral researcher at Stanford University focussing on biomedical text mining and machine learning"
+  bio    : "A lecturer at the University of Glasgow focussing on biomedical text mining and machine learning"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
