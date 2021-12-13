@@ -7,9 +7,9 @@ I’m always looking for potential new researchers to work with. Take a look bel
 
 #### Prospective PhD Students
 
-Want to do a PhD using machine learning to solve some exciting biomedical problems, particularly related to biomedical text? The School of Computing Science has a webpage on the main route into the PhD programme. [Please read it to understand the process](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents). The next deadline for applications is **31st January 2022**.
+Want to do a PhD using machine learning to solve some exciting biomedical problems, particularly related to biomedical text? The School of Computing Science has a webpage on the main route into the PhD programme. [Please read it to understand the application process](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents). The next deadline for applications is **31st January 2022**.
 
-The School has a number of studentships (as you should be paid!) and, unfortunately, only a limited number cover fees for international students. [This page](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/phd-projects/) lists most of them out and you apply for most of them in the same process as applying for the PhD programme.
+The School has a number of studentships and, unfortunately, only a limited number cover fees for international students. [This page](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/phd-projects/) lists most of them out and you apply for most of them in the same process as applying for the PhD programme.
 
 If you are considering applying, please email me early so we have time to chat about working together and about potential research projects.
 
