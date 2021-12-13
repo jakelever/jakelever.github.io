@@ -3,6 +3,8 @@ permalink: /research/
 title: "Research"
 ---
 
+My [university profile](https://www.gla.ac.uk/schools/computing/staff/jakelever/) provides a nice overview of some of my research interests, particularly using machine learning to do clever things with biomedical text. Below are a few recent projects.
+
 ### [CoronaCentral](https://coronacentral.ai)
 
 The pandemic has caused an incredible surge in research on different aspects of the virus and its effects. It is very challenging to navigate this fire hose of papers. This [portal](https://coronacentral.ai) makes it more manageable to find the important papers for a variety of topics, from risk factors and forecasting to vaccines and the psychology impacts. The research uses a supervised learning approach with a set of classifiers trained on topic annotations for several thousand papers. A [preprint on bioRxiv](https://doi.org/10.1101/2020.12.21.423860) is now available. The machine learning code is on [Github](https://github.com/jakelever/corona-ml) and the data is on [Zenodo](https://doi.org/10.5281/zenodo.4383289).

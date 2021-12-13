@@ -60,6 +60,12 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "A lecturer at the University of Glasgow focussing on biomedical text mining and machine learning"
   links:
+    - label: "University Profile"
+      icon: "fa fa-fw fa-university"
+      url: "https://www.gla.ac.uk/schools/computing/staff/jakelever/"
+    - label: "Email"
+      icon: "fa fa-fw fa-at"
+      url: "mailto:Jake.Lever@glasgow.ac.uk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jakelever0"
