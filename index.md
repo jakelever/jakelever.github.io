@@ -11,4 +11,4 @@ Hi, I'm Jake Lever, a lecturer in the [School of Computing Science](https://www.
 
 This personal web page provides links to my [teaching](/teaching/) and [research](/research/) efforts. I've also written a few columns on statistics that are linked in the [writing](/writing/) page. 
 
-** I am looking for PhD students to start in October 2022.** If you are interested in that, or another opportunity, please look at the information [here](/workwithme/) and contact me.
+**I am looking for PhD students to start in October 2022.** If you are interested in that, or another opportunity, please look at the information [here](/workwithme/) and contact me.
