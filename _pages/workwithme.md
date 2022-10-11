@@ -28,7 +28,11 @@ Based on your home country, there may be additional options available so do plea
 
 #### Prospective Postdocs & Staff
 
-Unfortunately, I don't have any advertised positions at the moment. However, I would love to hear from you so that I can let you know about any future positions. Please drop me an email.
+We are currently hiring for a postdoctoral research to work on an EPSRC-funded New Horizons project with patient records. The job posting link is below and please do get in contact if you would like more details.
+
+Job posting: https://my.corehr.com/pls/uogrecruit/erq_jobspec_version_4.jobspec?p_id=098788
+
+If you'd be interested in a possible postdoctoral position in the future, please do get in contact by email as funding opportunities are always coming up.
 
 #### University of Glasgow Undergraduates and Masters Students
 
