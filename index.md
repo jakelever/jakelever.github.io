@@ -11,3 +11,4 @@ Hi, I'm Jake Lever, a lecturer in the [School of Computing Science](https://www.
 
 This personal web page provides links to my [teaching](/teaching/) and [research](/research/) efforts. I've also written a few columns on statistics that are linked in the [writing](/writing/) page. 
 
+**We are currently hiring for a postdoctoral researcher to work on synthetic medical records and information extraction**. The deadline is October 24th. Please see the [job advert](https://my.corehr.com/pls/uogrecruit/erq_jobspec_version_4.jobspec?p_id=098788) for more information and drop me an [email](mailto:jake.lever@glasgow.ac.uk) if you like more details.
