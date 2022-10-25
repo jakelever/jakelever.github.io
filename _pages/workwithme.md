@@ -28,11 +28,7 @@ Based on your home country, there may be additional options available so do plea
 
 #### Prospective Postdocs & Staff
 
-**We are currently hiring for a postdoctoral researcher to work on an EPSRC-funded New Horizons project on patient records**. It will examine the use of text generation to create synthetic records and their use for information extraction. It's in collaboration with my colleagues Dr Graham McDonald and Prof Iadh Ounis along with partners at NHS Safe Havens. The job posting link is below and please do get in contact if you would like more details.
-
-Apply [here](https://my.corehr.com/pls/uogrecruit/erq_jobspec_version_4.jobspec?p_id=098788)
-
-If you'd be interested in a possible postdoctoral position in the future, please do get in contact by email as funding opportunities are always coming up.
+I don't have any current positions listed. If you'd be interested in a possible postdoctoral position in the future, please do get in contact by email as funding opportunities are always coming up.
 
 #### University of Glasgow Undergraduates and Masters Students
 
